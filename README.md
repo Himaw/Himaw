@@ -32,7 +32,7 @@ Interests
 
 Let's Connect!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Chanvichet%20Vong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chanvichet-v-838351128/)](https://www.linkedin.com/in/himaofficial/)
+[![Linkedin Badge](https://img.shields.io/badge/-Himasara%20Warnakulasuriya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chanvichet-v-838351128/)](https://www.linkedin.com/in/himaofficial/)
 
 ## Languages
 
@@ -48,7 +48,8 @@ Let's Connect!
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nanocode012&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanocode012&hide=TeX&layout=compact)
 
 
 
