@@ -47,7 +47,7 @@ Here are a few highlights of my ongoing projects:<br />
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=Himaw&count_private=true&show_icons=true&include_all_commits=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hima&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himaw&hide=TeX&layout=compact)
 
 
 
